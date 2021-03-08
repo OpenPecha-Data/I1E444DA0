@@ -4,4 +4,39 @@ source_metadata:
   id: bdr:W1KG24977
   title: ཤེས་བྱ་བྱིས་པ་དགའ་སྐྱེད།
   author: ''
-  volumes: {}
+  volumes:
+    7ab91d0928e94f2d81afb553b9ac1d62:
+      image_group_id: I1KG24979
+      title: ''
+      volume_number: 1
+      total_pages: 100
+    cb56bd6f0540437eb431fe786afd3bc3:
+      image_group_id: I1KG24980
+      title: ''
+      volume_number: 2
+      total_pages: 92
+    8e88e3c1cdf44d6a9b47cfc12a2c17c9:
+      image_group_id: I1KG24981
+      title: ''
+      volume_number: 3
+      total_pages: 126
+    a7d3bd9acabe49af88d8bb604285d435:
+      image_group_id: I1KG24982
+      title: ''
+      volume_number: 4
+      total_pages: 82
+    a74dc01588c8499483a92b325e750d42:
+      image_group_id: I1KG24983
+      title: ''
+      volume_number: 5
+      total_pages: 142
+    8386f7cfc53a4cee826a6f6aa1f6608c:
+      image_group_id: I1KG24984
+      title: ''
+      volume_number: 6
+      total_pages: 0
+    2471009dfa9c47dda7caacdb514ace17:
+      image_group_id: I1KG24985
+      title: ''
+      volume_number: 7
+      total_pages: 84
